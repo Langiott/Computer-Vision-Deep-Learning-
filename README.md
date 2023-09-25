@@ -1,5 +1,6 @@
 # Computer-Vision-Deep-Learning-
 ![Campi di Studio](/1.jpg)
+----
 "Computer vision" e il "Deep learning" sono due concetti chiave nell'ambito dell'intelligenza artificiale (IA) che si occupano della comprensione e dell'analisi delle immagini e dei video. Ecco una descrizione di entrambi i concetti e alcuni esempi di utilizzo:
 
 ## Computer Vision (Visione Artificiale):
